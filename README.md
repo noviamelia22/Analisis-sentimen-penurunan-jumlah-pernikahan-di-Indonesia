@@ -27,7 +27,11 @@ Klasifikasi SVM (Support Vector Machine)
 
 
 Klasifikasi Naive Bayes
+
 ![Screenshot (1733)](https://github.com/user-attachments/assets/ab21ea85-d618-4fb7-9248-ef3419fb984e)
+
+
+
 
 
 Berdasarkan hasil penelitian, ditemukan bahwa opini masyarakat pengguna media sosial X terhadap penurunan angka pernikahan di Indonesia sebagian besar bersifat positif, dengan persentase sebesar 62,57%. Sentimen ini menunjukkan bahwa masyarakat mendukung adanya kesadaran terhadap kesiapan finansial dan mental sebelum menikah. Opini negatif mencapai 27,17%, yang didominasi oleh keluhan mengenai tekanan atau hambatan yang dirasakan masyarakat, seperti beban finansial yang tinggi dan ketakutan terhadap kegagalan pernikahan. Opini netral sebanyak 10,26%, menunjukkan pandangan yang cenderung memberikan informasi tanpa memihak atau mengekspresikan emosi tertentu.
